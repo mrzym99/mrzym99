@@ -18,7 +18,7 @@
 
 ###
 
-<table width="600">
+<table width="600" style="border: none;">
   <tr>
     <td width="120"><img src="./coding.gif" /></td>
     <td>
